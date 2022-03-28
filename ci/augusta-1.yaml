@@ -48,7 +48,6 @@ spec:
   join:
     validator:
       amount: 1000000uaugust
-      faucet: https://faucet.augusta-1.archway.tech
     genesis:
       url: https://raw.githubusercontent.com/archway-network/testnets/main/augusta-1/genesis.json
     persistentPeers:
